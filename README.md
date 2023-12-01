@@ -4,7 +4,7 @@
 *Italic*
 **Bold**
 
-## Section 2.1
+## Section 1.2
 Top 3 ice cream flavors:
 1. Cherry
 2. Vanilla
